@@ -146,7 +146,3 @@ From the above figures, you can observe that your model did a fantastic job of r
 At least visually, the test and the reconstructed images look almost exactly similar.
 """
 
-#Predicting on two different sensor data using the trained model
-
-==========================================================================================================
-

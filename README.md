@@ -6,4 +6,4 @@ The dataset that I’m using is the FVC2002 fingerprint dataset. It consists of 
 
 Download dataset: http://bias.csr.unibo.it/fvc2002/databases.asp
 
-Follow this medium article to understand everything step by step. : https://towardsdatascience.com/recreating-fingerprints-using-convolutional-autoencoders-5c576e479d4f
+Follow this medium article to understand everything step by step. : https://www.theaidream.com/post/recreating-fingerprints-using-convolutional-autoencoders
